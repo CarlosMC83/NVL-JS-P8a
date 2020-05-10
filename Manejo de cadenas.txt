@@ -1,0 +1,20 @@
+
+Dada la cadena “Amigo”, conviértela a la cadena “amigo” de tres formas distintas:
+
+1ª Forma:
+
+var a = "Amigo";alert(a.replace("Amigo", "amigo"));
+
+
+2ª Forma:
+
+var a = "Amigo";alert(a.toLowerCase());
+
+
+3ª Forma:
+
+var a = "ami";
+var b = "go";
+alert(a+b);
+
+
